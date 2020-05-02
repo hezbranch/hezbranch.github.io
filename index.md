@@ -1,6 +1,6 @@
-## Welcome to my portfolio!
+## What to expect?
 
-This site includes content such as coding projects, blog posts, and tutorials. To connect with me on LinkedIn, please [click here] (https://www.linkedin.com/in/hezekiahbranch/) to add  me to your network! 
+This site includes content such as coding projects, blog posts, and tutorials. To connect with me on LinkedIn, please [click here](https://www.linkedin.com/in/hezekiahbranch/) to add  me to your network! 
 
 
 ### Markdown
