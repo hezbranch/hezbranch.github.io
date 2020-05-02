@@ -17,7 +17,7 @@ My techincal background is pretty eclectic so you'll see projects from a variety
 
 ```markdown
 
-**Technical Fields**
+Technical Fields
 - Algorithms
 - Machine Learning
 - Computational Biology
@@ -25,14 +25,14 @@ My techincal background is pretty eclectic so you'll see projects from a variety
 - Web Engineering
 - Engineering Management
 
-**Programming Languages**
+Programming Languages
 - Python (NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch, TensorFlow)
 - R (tidyverse, dplyr, ggplot2)
 - C++ (OOP, Memory Management)
 - Java (Object-Oriented Design, Hadoop, JUnit)
 - SQL (MySQL, Oracle, PostgreSQL)
 
-**Technical Courses**
+Technical Courses
 - Analytical Methods for Human Factors Engineering (ENP 163) *
 - Data Science for Sustainability (COMP 152) *
 - Data Structures (COMP 15)
