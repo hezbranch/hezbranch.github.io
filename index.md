@@ -1,6 +1,10 @@
 ## Who am I?
 
-Welcome! My name is Hezekiah Branch and I am a student at Tufts University studying Cognitive Brain Science with minors in Computer Science and Engineering Management. I am a passionate, T-shaped engineer with experience in data science, cognitive research, and product management. My experience at companies such as Prudential, Harvard Graduate School of Education, Jopwell, and in programs such as #FirstFlight with Twitter have equipped me with a diverse skillset to innovate with impact. I also speak/read/write professionally in Spanish (NSE Gold Medalist, scoring in the top 99 percentile; Spain Junior Travel Award Recipient; 700+ SAT Spanish Subject Test Score), read/write at a professional level in Portuguese (former Tufts minor), and have basic proficiency in French. If you can't already tell, I LOVE languages and continue to improve proficiency in all three mentioned above.
+Welcome! My name is Hezekiah Branch and I am a student at Tufts University studying Cognitive Brain Science with minors in Computer Science and Engineering Management. I am a passionate, T-shaped engineer with experience in data science, cognitive research, and product management. <br/>
+
+My experience at companies such as Prudential, Harvard Graduate School of Education, Jopwell, and in programs such as #FirstFlight with Twitter have equipped me with a diverse skillset to innovate with impact. 
+
+I also speak/read/write professionally in Spanish (NSE Gold Medalist, scoring in the top 99 percentile; Spain Junior Travel Award Recipient; 700+ SAT Spanish Subject Test Score), read/write at a professional level in Portuguese (former Tufts minor), and have basic proficiency in French. If you can't already tell, I LOVE languages and continue to improve proficiency in all three mentioned above.
 
 ## What to expect?
 
