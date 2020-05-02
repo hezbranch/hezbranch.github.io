@@ -1,7 +1,3 @@
-title: "Debunking Cognitive Science"
-layout: page
-permalink: https://hezbranch.github.io/debunking-cognitive-science
-
 Despite the many challenges that covid-19 has presented, the creativity of people everywhere has kept my spirit alive.
 
 Creativity is often mistakenly tied to a person's ability to create original content. Current research suggests that creativity is actually independent of ability and more closely related to strategy. How we choose to create and self-express is a result of the environmental cues that we choose to act upon. This relationship between creativity and strategy also extends to AI research where we continue to uncover useful heuristics about creative problem-solving.
