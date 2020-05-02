@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/hezbranch/hezbranch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site includes content such as coding projects, blog posts, and tutorials. To connect with me on LinkedIn, please [click here] (https://www.linkedin.com/in/hezekiahbranch/) to add  me to your network! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
