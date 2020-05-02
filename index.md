@@ -3,34 +3,37 @@
 This site includes content such as coding projects, blog posts, and tutorials. To connect with me on LinkedIn, please [click here](https://www.linkedin.com/in/hezekiahbranch/) to add  me to your network! 
 
 
-### Markdown
+### Coding Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My techincal background is pretty eclectic so you'll see projects from a variety of fields.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Technical Fields
 
-- Bulleted
-- List
+- Algorithms
+- Machine Learning
+- Computational Biology
+- Cognitive Brain Science
+- Web Engineering
+- Engineering Management
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, see my repos on [GitHub](https://github.com/hezbranch/CodeWithHezekiah2020).
 
-### Jekyll Themes
+### Cognitive Science Blog
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hezbranch/hezbranch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can expect to see posts about current research in cognitive science including:
+
+* Debunking Myths
+* Heuristics and Modeling
+* Computational Semantics
+* Social Psychology
+* Artificial Intelligence
+
+And so much more!!!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with my page? Send an email to [hezekiah.branch@tufts.edu](mailto:Hezekiah.Branch@tufts.edu) and I'll make sure to get back to you!
