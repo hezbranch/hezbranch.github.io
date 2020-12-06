@@ -1,4 +1,4 @@
-[Check me out on LinkedIn!](https://www.linkedin.com/in/hezekiahbranch/){: .btn}
+[Check me out on LinkedIn!](https://www.linkedin.com/in/hezekiahbranch/){: .btn .btn-purple }
 
 
 ## Who am I?
