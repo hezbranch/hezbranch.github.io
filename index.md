@@ -1,4 +1,5 @@
-<button name="button" onclick="https://www.linkedin.com/in/hezekiahbranch/">Check me out on LinkedIn!</button>
+[Check me out on LinkedIn!](https://www.linkedin.com/in/hezekiahbranch/){: .btn}
+
 
 ## Who am I?
 
