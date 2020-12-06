@@ -1,8 +1,8 @@
 ## Who am I?
 
-Welcome! My name is Hezekiah Branch and I am a student at Tufts University studying Cognitive Brain Science with minors in Computer Science and Engineering Management. I am a passionate, T-shaped engineer with experience in data science, cognitive research, and product management. <br/>
+Welcome! My name is Hezekiah Branch and I am a student at Tufts University studying Cognitive Brain Science with minors in Computer Science and Engineering Management. I am a passionate, T-shaped engineer with experience in machine learning, data science, cognitive research, and engineering management. <br/>
 
-My experience at companies such as Prudential, Harvard Graduate School of Education, Jopwell, and in programs such as #FirstFlight with Twitter have equipped me with a diverse skillset to innovate with impact. 
+My experience at companies such as IBM, Prudential, Harvard, Jopwell, and in programs such as #FirstFlight with Twitter have equipped me with a diverse skillset to innovate with impact. 
 
 I also speak/read/write professionally in Spanish (NSE Gold Medalist, scoring in the top 99 percentile; Spain Junior Travel Award Recipient; 700+ SAT Spanish Subject Test Score), read/write at a professional level in Portuguese (former Tufts minor), and have basic proficiency in French. If you can't already tell, I LOVE languages and continue to improve proficiency in all three mentioned above.
 
@@ -18,12 +18,11 @@ My techincal background is pretty eclectic so you'll see projects from a variety
 ```markdown
 
 Technical Fields
-- Algorithms
+- Network Science
+- Artificial Intelligence
 - Machine Learning
 - Computational Biology
-- Cognitive Brain Science
-- Web Engineering
-- Engineering Management
+- Computational Cognitive Science
 
 Programming Languages
 - Python (NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch, TensorFlow)
@@ -33,18 +32,25 @@ Programming Languages
 - SQL (MySQL, Oracle, PostgreSQL)
 
 Technical Courses
-- Analytical Methods for Human Factors Engineering (ENP 163) *
-- Data Science for Sustainability (COMP 152) *
+- Analytical Methods for Human Factors Engineering (ENP 163) 
+- Computational Models in Cognitive Science (COMP 134)
+- Data Science for Sustainability (COMP 152) 
 - Data Structures (COMP 15)
 - Discrete Mathematics (MATH 61)
-- Ecological Statistics with Modeling (BIO 133) *
-- Tufts Engineering Management Series
+- Ecological Statistics with Modeling (BIO 133) 
+- Fundamentals of Biostatistics (CEE 06)
 - Linear Algebra (MATH 70)
-- Software Engineering (COMP 150) *
+- Network Science (COMP 150)
+- Software Engineering (COMP 150)
 
-* graduate level coursework (100+ level)
+Research Experience
+- Graduate Research Intern, IBM Research (Incoming 2021)
+- ML Software Engineer, Tufts COVID Command Center
+- LSAMP Research Scholar at Tufts Machine Learning Group, Hughes Lab
+- Research Intern at Tufts Human Interaction Lab
+- Fab Lab Intern at South End Technology Center (Tisch Scholar for Civic Life)
 
-Topics that I hope to delve into for the future are graph theory, concurrency, and reinforcement learning.
+Topics that I hope to delve into for the future are numerical linear algebra, quantum computing, and reinforcement learning.
 
 ```
 For more details, please visit my repos on [GitHub](https://github.com/hezbranch/).
