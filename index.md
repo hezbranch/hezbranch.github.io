@@ -1,6 +1,3 @@
-<button name="button" onclick="https://www.linkedin.com/in/hezekiahbranch/">Check me out on LinkedIn!</button>
-
-
 ## Who am I?
 
 Welcome! My name is Hezekiah Branch and I am a student at Tufts University studying Cognitive Brain Science with minors in Computer Science and Engineering Management. I am a passionate, T-shaped engineer with experience in machine learning, data science, cognitive research, and engineering management. <br/>
